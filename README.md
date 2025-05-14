@@ -1,3 +1,3 @@
 AWS Cloud Resume Challenge
 
-Place here all the Documentation and Steps for this challenge
+I will be placing here all the Documentation and Steps for this challenge, coming soon
