@@ -1,2 +1,3 @@
-# my-cloud-res-chal
-My Cloud Resume Challenge CI\CD
+AWS Cloud Resume Challenge
+
+Place here all the Documentation and Steps for this challenge
